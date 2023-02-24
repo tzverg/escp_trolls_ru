@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- [ESCP_TrollGrahl] -->
+
+  <ESCP_TrollGrahl.label>Грахлъ</ESCP_TrollGrahl.label>
+  <ESCP_TrollGrahl.labelPlural>Грахли</ESCP_TrollGrahl.labelPlural>
+  <ESCP_TrollGrahl.lifeStages.0.label>Грахлчёнышъ</ESCP_TrollGrahl.lifeStages.0.label>
+  <ESCP_TrollGrahl.lifeStages.0.labelPlural>Грахлчёныши</ESCP_TrollGrahl.lifeStages.0.labelPlural>
+  <ESCP_TrollGrahl.lifeStages.0.labelMale>Грахлчёнышъ</ESCP_TrollGrahl.lifeStages.0.labelMale>
+  <ESCP_TrollGrahl.lifeStages.0.labelMalePlural>Грахлчёныши</ESCP_TrollGrahl.lifeStages.0.labelMalePlural>
+  <ESCP_TrollGrahl.lifeStages.0.labelFemale>Грахлчёнья</ESCP_TrollGrahl.lifeStages.0.labelFemale>
+  <ESCP_TrollGrahl.lifeStages.0.labelFemalePlural>Грахлчёньи</ESCP_TrollGrahl.lifeStages.0.labelFemalePlural>
+  <ESCP_TrollGrahl.lifeStages.1.label>Грахлчён</ESCP_TrollGrahl.lifeStages.1.label>
+  <ESCP_TrollGrahl.lifeStages.1.labelPlural>Грахлчёне</ESCP_TrollGrahl.lifeStages.1.labelPlural>
+  <ESCP_TrollGrahl.lifeStages.1.labelMale>Грахлчён</ESCP_TrollGrahl.lifeStages.1.labelMale>
+  <ESCP_TrollGrahl.lifeStages.1.labelMalePlural>Грахлчёне</ESCP_TrollGrahl.lifeStages.1.labelMalePlural>
+  <ESCP_TrollGrahl.lifeStages.1.labelFemale>Грахлчёнья</ESCP_TrollGrahl.lifeStages.1.labelFemale>
+  <ESCP_TrollGrahl.lifeStages.1.labelFemalePlural>Грахлчёньи</ESCP_TrollGrahl.lifeStages.1.labelFemalePlural>
+  <ESCP_TrollGrahl.lifeStages.2.label>Грахлъ</ESCP_TrollGrahl.lifeStages.2.label>
+  <ESCP_TrollGrahl.lifeStages.2.labelPlural>Грахли</ESCP_TrollGrahl.lifeStages.2.labelPlural>
+  <ESCP_TrollGrahl.lifeStages.2.labelMale>Грахлъ</ESCP_TrollGrahl.lifeStages.2.labelMale>
+  <ESCP_TrollGrahl.lifeStages.2.labelMalePlural>Грахли</ESCP_TrollGrahl.lifeStages.2.labelMalePlural>
+  <ESCP_TrollGrahl.lifeStages.2.labelFemale>Грахля</ESCP_TrollGrahl.lifeStages.2.labelFemale>
+  <ESCP_TrollGrahl.lifeStages.2.labelFemalePlural>Грахли</ESCP_TrollGrahl.lifeStages.2.labelFemalePlural>
+  <ESCP_TrollGrahl.labelMale>Грахлъ</ESCP_TrollGrahl.labelMale>
+  <ESCP_TrollGrahl.labelMalePlural>Грахли</ESCP_TrollGrahl.labelMalePlural>
+  <ESCP_TrollGrahl.labelFemale>Грахля</ESCP_TrollGrahl.labelFemale>
+  <ESCP_TrollGrahl.labelFemalePlural>Грахли</ESCP_TrollGrahl.labelFemalePlural>
+
+
+  <!-- [ESCP_TrollUdyrfrykte] -->
+
+  <ESCP_TrollUdyrfrykte.label>Удырфрухтеръ</ESCP_TrollUdyrfrykte.label>
+  <ESCP_TrollUdyrfrykte.labelPlural>Удырфрухтерсы</ESCP_TrollUdyrfrykte.labelPlural>
+  <ESCP_TrollUdyrfrykte.lifeStages.0.label>Удырфрухтерчик</ESCP_TrollUdyrfrykte.lifeStages.0.label>
+  <ESCP_TrollUdyrfrykte.lifeStages.0.labelPlural>Удырфрухтерчики</ESCP_TrollUdyrfrykte.lifeStages.0.labelPlural>
+  <ESCP_TrollUdyrfrykte.lifeStages.0.labelMale>Удырфрухтерчик</ESCP_TrollUdyrfrykte.lifeStages.0.labelMale>
+  <ESCP_TrollUdyrfrykte.lifeStages.0.labelMalePlural>Удырфрухтерчики</ESCP_TrollUdyrfrykte.lifeStages.0.labelMalePlural>
+  <ESCP_TrollUdyrfrykte.lifeStages.0.labelFemale>Удырфрухтерка</ESCP_TrollUdyrfrykte.lifeStages.0.labelFemale>
+  <ESCP_TrollUdyrfrykte.lifeStages.0.labelFemalePlural>Удырфрухтерки</ESCP_TrollUdyrfrykte.lifeStages.0.labelFemalePlural>
+  <ESCP_TrollUdyrfrykte.lifeStages.1.label>Удырфрухтерник</ESCP_TrollUdyrfrykte.lifeStages.1.label>
+  <ESCP_TrollUdyrfrykte.lifeStages.1.labelPlural>Удырфрухтерники</ESCP_TrollUdyrfrykte.lifeStages.1.labelPlural>
+  <ESCP_TrollUdyrfrykte.lifeStages.1.labelMale>Удырфрухтерник</ESCP_TrollUdyrfrykte.lifeStages.1.labelMale>
+  <ESCP_TrollUdyrfrykte.lifeStages.1.labelMalePlural>Удырфрухтерники</ESCP_TrollUdyrfrykte.lifeStages.1.labelMalePlural>
+  <ESCP_TrollUdyrfrykte.lifeStages.1.labelFemale>Удырфрухтерша</ESCP_TrollUdyrfrykte.lifeStages.1.labelFemale>
+  <ESCP_TrollUdyrfrykte.lifeStages.1.labelFemalePlural>Удырфрухтерши</ESCP_TrollUdyrfrykte.lifeStages.1.labelFemalePlural>
+  <ESCP_TrollUdyrfrykte.lifeStages.2.label>Удырфрухтеръ</ESCP_TrollUdyrfrykte.lifeStages.2.label>
+  <ESCP_TrollUdyrfrykte.lifeStages.2.labelPlural>Удырфрухтерсы</ESCP_TrollUdyrfrykte.lifeStages.2.labelPlural>
+  <ESCP_TrollUdyrfrykte.lifeStages.2.labelMale>Удырфрухтеръ</ESCP_TrollUdyrfrykte.lifeStages.2.labelMale>
+  <ESCP_TrollUdyrfrykte.lifeStages.2.labelMalePlural>Удырфрухтерсы</ESCP_TrollUdyrfrykte.lifeStages.2.labelMalePlural>
+  <ESCP_TrollUdyrfrykte.lifeStages.2.labelFemale>Удырфрухтя</ESCP_TrollUdyrfrykte.lifeStages.2.labelFemale>
+  <ESCP_TrollUdyrfrykte.lifeStages.2.labelFemalePlural>Удырфрухти</ESCP_TrollUdyrfrykte.lifeStages.2.labelFemalePlural>
+  <ESCP_TrollUdyrfrykte.labelMale>Удырфрухтеръ</ESCP_TrollUdyrfrykte.labelMale>
+  <ESCP_TrollUdyrfrykte.labelMalePlural>Удырфрухтерсы</ESCP_TrollUdyrfrykte.labelMalePlural>
+  <ESCP_TrollUdyrfrykte.labelFemale>Удырфрухтя</ESCP_TrollUdyrfrykte.labelFemale>
+  <ESCP_TrollUdyrfrykte.labelFemalePlural>Удырфрухти</ESCP_TrollUdyrfrykte.labelFemalePlural>
+
+
+</LanguageData>

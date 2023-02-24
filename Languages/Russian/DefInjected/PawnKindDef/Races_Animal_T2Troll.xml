@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- [ESCP_TrollFrost] -->
+
+  <ESCP_TrollFrost.label>Хладотролль</ESCP_TrollFrost.label>
+  <ESCP_TrollFrost.labelPlural>Хладотролли</ESCP_TrollFrost.labelPlural>
+  <ESCP_TrollFrost.lifeStages.0.label>Хладотролльчик</ESCP_TrollFrost.lifeStages.0.label>
+  <ESCP_TrollFrost.lifeStages.0.labelPlural>Хладотролльчики</ESCP_TrollFrost.lifeStages.0.labelPlural>
+  <ESCP_TrollFrost.lifeStages.0.labelMale>Хладотролльчик</ESCP_TrollFrost.lifeStages.0.labelMale>
+  <ESCP_TrollFrost.lifeStages.0.labelMalePlural>Хладотролльчики</ESCP_TrollFrost.lifeStages.0.labelMalePlural>
+  <ESCP_TrollFrost.lifeStages.0.labelFemale>Хладотроллька</ESCP_TrollFrost.lifeStages.0.labelFemale>
+  <ESCP_TrollFrost.lifeStages.0.labelFemalePlural>Хладотролльки</ESCP_TrollFrost.lifeStages.0.labelFemalePlural>
+  <ESCP_TrollFrost.lifeStages.1.label>Хладотролльник</ESCP_TrollFrost.lifeStages.1.label>
+  <ESCP_TrollFrost.lifeStages.1.labelPlural>Хладотролльники</ESCP_TrollFrost.lifeStages.1.labelPlural>
+  <ESCP_TrollFrost.lifeStages.1.labelMale>Хладотролльник</ESCP_TrollFrost.lifeStages.1.labelMale>
+  <ESCP_TrollFrost.lifeStages.1.labelMalePlural>Хладотролльники</ESCP_TrollFrost.lifeStages.1.labelMalePlural>
+  <ESCP_TrollFrost.lifeStages.1.labelFemale>Хладотроллья</ESCP_TrollFrost.lifeStages.1.labelFemale>
+  <ESCP_TrollFrost.lifeStages.1.labelFemalePlural>Хладотролльи</ESCP_TrollFrost.lifeStages.1.labelFemalePlural>
+  <ESCP_TrollFrost.lifeStages.2.label>Хладотролль</ESCP_TrollFrost.lifeStages.2.label>
+  <ESCP_TrollFrost.lifeStages.2.labelPlural>Хладотролли</ESCP_TrollFrost.lifeStages.2.labelPlural>
+  <ESCP_TrollFrost.lifeStages.2.labelMale>Хладотролль</ESCP_TrollFrost.lifeStages.2.labelMale>
+  <ESCP_TrollFrost.lifeStages.2.labelMalePlural>Хладотролли</ESCP_TrollFrost.lifeStages.2.labelMalePlural>
+  <ESCP_TrollFrost.lifeStages.2.labelFemale>Хладотролльня</ESCP_TrollFrost.lifeStages.2.labelFemale>
+  <ESCP_TrollFrost.lifeStages.2.labelFemalePlural>Хладотролльни</ESCP_TrollFrost.lifeStages.2.labelFemalePlural>
+  <ESCP_TrollFrost.labelMale>Хладотролль</ESCP_TrollFrost.labelMale>
+  <ESCP_TrollFrost.labelMalePlural>Хладотролли</ESCP_TrollFrost.labelMalePlural>
+  <ESCP_TrollFrost.labelFemale>Хладотролльня</ESCP_TrollFrost.labelFemale>
+  <ESCP_TrollFrost.labelFemalePlural>Хладотролльни</ESCP_TrollFrost.labelFemalePlural>
+
+
+  <!-- [ESCP_TrollHill] -->
+
+  <ESCP_TrollHill.label>Горнотролль</ESCP_TrollHill.label>
+  <ESCP_TrollHill.labelPlural>Горнотролли</ESCP_TrollHill.labelPlural>
+  <ESCP_TrollHill.lifeStages.0.label>Горнотролльчик</ESCP_TrollHill.lifeStages.0.label>
+  <ESCP_TrollHill.lifeStages.0.labelPlural>Горнотролльчики</ESCP_TrollHill.lifeStages.0.labelPlural>
+  <ESCP_TrollHill.lifeStages.0.labelMale>Горнотролльчик</ESCP_TrollHill.lifeStages.0.labelMale>
+  <ESCP_TrollHill.lifeStages.0.labelMalePlural>Горнотролльчики</ESCP_TrollHill.lifeStages.0.labelMalePlural>
+  <ESCP_TrollHill.lifeStages.0.labelFemale>Горнотроллька</ESCP_TrollHill.lifeStages.0.labelFemale>
+  <ESCP_TrollHill.lifeStages.0.labelFemalePlural>Горнотролльки</ESCP_TrollHill.lifeStages.0.labelFemalePlural>
+  <ESCP_TrollHill.lifeStages.1.label>Горнотролльник</ESCP_TrollHill.lifeStages.1.label>
+  <ESCP_TrollHill.lifeStages.1.labelPlural>Горнотролльники</ESCP_TrollHill.lifeStages.1.labelPlural>
+  <ESCP_TrollHill.lifeStages.1.labelMale>Горнотролльник</ESCP_TrollHill.lifeStages.1.labelMale>
+  <ESCP_TrollHill.lifeStages.1.labelMalePlural>Горнотролльники</ESCP_TrollHill.lifeStages.1.labelMalePlural>
+  <ESCP_TrollHill.lifeStages.1.labelFemale>Горнотроллья</ESCP_TrollHill.lifeStages.1.labelFemale>
+  <ESCP_TrollHill.lifeStages.1.labelFemalePlural>Горнотролльи</ESCP_TrollHill.lifeStages.1.labelFemalePlural>
+  <ESCP_TrollHill.lifeStages.2.label>Горнотролль</ESCP_TrollHill.lifeStages.2.label>
+  <ESCP_TrollHill.lifeStages.2.labelPlural>Горнотролли</ESCP_TrollHill.lifeStages.2.labelPlural>
+  <ESCP_TrollHill.lifeStages.2.labelMale>Горнотролль</ESCP_TrollHill.lifeStages.2.labelMale>
+  <ESCP_TrollHill.lifeStages.2.labelMalePlural>Горнотролли</ESCP_TrollHill.lifeStages.2.labelMalePlural>
+  <ESCP_TrollHill.lifeStages.2.labelFemale>Горнотролльня</ESCP_TrollHill.lifeStages.2.labelFemale>
+  <ESCP_TrollHill.lifeStages.2.labelFemalePlural>Горнотролльни</ESCP_TrollHill.lifeStages.2.labelFemalePlural>
+  <ESCP_TrollHill.labelMale>Горнотролль</ESCP_TrollHill.labelMale>
+  <ESCP_TrollHill.labelMalePlural>Горнотролли</ESCP_TrollHill.labelMalePlural>
+  <ESCP_TrollHill.labelFemale>Горнотролльня</ESCP_TrollHill.labelFemale>
+  <ESCP_TrollHill.labelFemalePlural>Горнотролльни</ESCP_TrollHill.labelFemalePlural>
+
+
+  <!-- [ESCP_TrollRiver] -->
+
+  <ESCP_TrollRiver.label>Рекотролль</ESCP_TrollRiver.label>
+  <ESCP_TrollRiver.labelPlural>Рекотролли</ESCP_TrollRiver.labelPlural>
+  <ESCP_TrollRiver.lifeStages.0.label>Рекотролльчик</ESCP_TrollRiver.lifeStages.0.label>
+  <ESCP_TrollRiver.lifeStages.0.labelPlural>Рекотролльчики</ESCP_TrollRiver.lifeStages.0.labelPlural>
+  <ESCP_TrollRiver.lifeStages.0.labelMale>Рекотролльчик</ESCP_TrollRiver.lifeStages.0.labelMale>
+  <ESCP_TrollRiver.lifeStages.0.labelMalePlural>Рекотролльчики</ESCP_TrollRiver.lifeStages.0.labelMalePlural>
+  <ESCP_TrollRiver.lifeStages.0.labelFemale>Рекотроллька</ESCP_TrollRiver.lifeStages.0.labelFemale>
+  <ESCP_TrollRiver.lifeStages.0.labelFemalePlural>Рекотролльки</ESCP_TrollRiver.lifeStages.0.labelFemalePlural>
+  <ESCP_TrollRiver.lifeStages.1.label>Рекотролльник</ESCP_TrollRiver.lifeStages.1.label>
+  <ESCP_TrollRiver.lifeStages.1.labelPlural>Рекотролльники</ESCP_TrollRiver.lifeStages.1.labelPlural>
+  <ESCP_TrollRiver.lifeStages.1.labelMale>Рекотролльник</ESCP_TrollRiver.lifeStages.1.labelMale>
+  <ESCP_TrollRiver.lifeStages.1.labelMalePlural>Рекотролльники</ESCP_TrollRiver.lifeStages.1.labelMalePlural>
+  <ESCP_TrollRiver.lifeStages.1.labelFemale>Рекотроллья</ESCP_TrollRiver.lifeStages.1.labelFemale>
+  <ESCP_TrollRiver.lifeStages.1.labelFemalePlural>Рекотролльи</ESCP_TrollRiver.lifeStages.1.labelFemalePlural>
+  <ESCP_TrollRiver.lifeStages.2.label>Рекотролль</ESCP_TrollRiver.lifeStages.2.label>
+  <ESCP_TrollRiver.lifeStages.2.labelPlural>Рекотролли</ESCP_TrollRiver.lifeStages.2.labelPlural>
+  <ESCP_TrollRiver.lifeStages.2.labelMale>Рекотролль</ESCP_TrollRiver.lifeStages.2.labelMale>
+  <ESCP_TrollRiver.lifeStages.2.labelMalePlural>Рекотролли</ESCP_TrollRiver.lifeStages.2.labelMalePlural>
+  <ESCP_TrollRiver.lifeStages.2.labelFemale>Рекотролльня</ESCP_TrollRiver.lifeStages.2.labelFemale>
+  <ESCP_TrollRiver.lifeStages.2.labelFemalePlural>Рекотролльни</ESCP_TrollRiver.lifeStages.2.labelFemalePlural>
+  <ESCP_TrollRiver.labelMale>Рекотролль</ESCP_TrollRiver.labelMale>
+  <ESCP_TrollRiver.labelMalePlural>Рекотролли</ESCP_TrollRiver.labelMalePlural>
+  <ESCP_TrollRiver.labelFemale>Рекотролльня</ESCP_TrollRiver.labelFemale>
+  <ESCP_TrollRiver.labelFemalePlural>Рекотролльни</ESCP_TrollRiver.labelFemalePlural>
+
+
+  <!-- [ESCP_TrollCave] -->
+
+  <ESCP_TrollCave.label>Карстотролль</ESCP_TrollCave.label>
+  <ESCP_TrollCave.labelPlural>Карстотролли</ESCP_TrollCave.labelPlural>
+  <ESCP_TrollCave.lifeStages.0.label>Карстотролльчик</ESCP_TrollCave.lifeStages.0.label>
+  <ESCP_TrollCave.lifeStages.0.labelPlural>Карстотролльчики</ESCP_TrollCave.lifeStages.0.labelPlural>
+  <ESCP_TrollCave.lifeStages.0.labelMale>Карстотролльчик</ESCP_TrollCave.lifeStages.0.labelMale>
+  <ESCP_TrollCave.lifeStages.0.labelMalePlural>Карстотролльчики</ESCP_TrollCave.lifeStages.0.labelMalePlural>
+  <ESCP_TrollCave.lifeStages.0.labelFemale>Карстотроллька</ESCP_TrollCave.lifeStages.0.labelFemale>
+  <ESCP_TrollCave.lifeStages.0.labelFemalePlural>Карстотролльки</ESCP_TrollCave.lifeStages.0.labelFemalePlural>
+  <ESCP_TrollCave.lifeStages.1.label>Карстотролльник</ESCP_TrollCave.lifeStages.1.label>
+  <ESCP_TrollCave.lifeStages.1.labelPlural>Карстотролльники</ESCP_TrollCave.lifeStages.1.labelPlural>
+  <ESCP_TrollCave.lifeStages.1.labelMale>Карстотролльник</ESCP_TrollCave.lifeStages.1.labelMale>
+  <ESCP_TrollCave.lifeStages.1.labelMalePlural>Карстотролльники</ESCP_TrollCave.lifeStages.1.labelMalePlural>
+  <ESCP_TrollCave.lifeStages.1.labelFemale>Карстотроллья</ESCP_TrollCave.lifeStages.1.labelFemale>
+  <ESCP_TrollCave.lifeStages.1.labelFemalePlural>Карстотролльи</ESCP_TrollCave.lifeStages.1.labelFemalePlural>
+  <ESCP_TrollCave.lifeStages.2.label>Карстотролль</ESCP_TrollCave.lifeStages.2.label>
+  <ESCP_TrollCave.lifeStages.2.labelPlural>Карстотролли</ESCP_TrollCave.lifeStages.2.labelPlural>
+  <ESCP_TrollCave.lifeStages.2.labelMale>Карстотролль</ESCP_TrollCave.lifeStages.2.labelMale>
+  <ESCP_TrollCave.lifeStages.2.labelMalePlural>Карстотролли</ESCP_TrollCave.lifeStages.2.labelMalePlural>
+  <ESCP_TrollCave.lifeStages.2.labelFemale>Карстотролльня</ESCP_TrollCave.lifeStages.2.labelFemale>
+  <ESCP_TrollCave.lifeStages.2.labelFemalePlural>Карстотролльни</ESCP_TrollCave.lifeStages.2.labelFemalePlural>
+  <ESCP_TrollCave.labelMale>Карстотролль</ESCP_TrollCave.labelMale>
+  <ESCP_TrollCave.labelMalePlural>Карстотролли</ESCP_TrollCave.labelMalePlural>
+  <ESCP_TrollCave.labelFemale>Карстотролльня</ESCP_TrollCave.labelFemale>
+  <ESCP_TrollCave.labelFemalePlural>Карстотролльни</ESCP_TrollCave.labelFemalePlural>
+
+
+  <!-- [ESCP_TrollCoastal] -->
+
+  <ESCP_TrollCoastal.label>Бреготролль</ESCP_TrollCoastal.label>
+  <ESCP_TrollCoastal.labelPlural>Бреготролли</ESCP_TrollCoastal.labelPlural>
+  <ESCP_TrollCoastal.lifeStages.0.label>Бреготролльчик</ESCP_TrollCoastal.lifeStages.0.label>
+  <ESCP_TrollCoastal.lifeStages.0.labelPlural>Бреготролльчики</ESCP_TrollCoastal.lifeStages.0.labelPlural>
+  <ESCP_TrollCoastal.lifeStages.0.labelMale>Бреготролльчик</ESCP_TrollCoastal.lifeStages.0.labelMale>
+  <ESCP_TrollCoastal.lifeStages.0.labelMalePlural>Бреготролльчики</ESCP_TrollCoastal.lifeStages.0.labelMalePlural>
+  <ESCP_TrollCoastal.lifeStages.0.labelFemale>Бреготроллька</ESCP_TrollCoastal.lifeStages.0.labelFemale>
+  <ESCP_TrollCoastal.lifeStages.0.labelFemalePlural>Бреготролльки</ESCP_TrollCoastal.lifeStages.0.labelFemalePlural>
+  <ESCP_TrollCoastal.lifeStages.1.label>Бреготролльник</ESCP_TrollCoastal.lifeStages.1.label>
+  <ESCP_TrollCoastal.lifeStages.1.labelPlural>Бреготролльники</ESCP_TrollCoastal.lifeStages.1.labelPlural>
+  <ESCP_TrollCoastal.lifeStages.1.labelMale>Бреготролльник</ESCP_TrollCoastal.lifeStages.1.labelMale>
+  <ESCP_TrollCoastal.lifeStages.1.labelMalePlural>Бреготролльники</ESCP_TrollCoastal.lifeStages.1.labelMalePlural>
+  <ESCP_TrollCoastal.lifeStages.1.labelFemale>Бреготроллья</ESCP_TrollCoastal.lifeStages.1.labelFemale>
+  <ESCP_TrollCoastal.lifeStages.1.labelFemalePlural>Бреготролльи</ESCP_TrollCoastal.lifeStages.1.labelFemalePlural>
+  <ESCP_TrollCoastal.lifeStages.2.label>Бреготролль</ESCP_TrollCoastal.lifeStages.2.label>
+  <ESCP_TrollCoastal.lifeStages.2.labelPlural>Бреготролли</ESCP_TrollCoastal.lifeStages.2.labelPlural>
+  <ESCP_TrollCoastal.lifeStages.2.labelMale>Бреготролль</ESCP_TrollCoastal.lifeStages.2.labelMale>
+  <ESCP_TrollCoastal.lifeStages.2.labelMalePlural>Бреготролли</ESCP_TrollCoastal.lifeStages.2.labelMalePlural>
+  <ESCP_TrollCoastal.lifeStages.2.labelFemale>Бреготролльня</ESCP_TrollCoastal.lifeStages.2.labelFemale>
+  <ESCP_TrollCoastal.lifeStages.2.labelFemalePlural>Бреготролльни</ESCP_TrollCoastal.lifeStages.2.labelFemalePlural>
+  <ESCP_TrollCoastal.labelMale>Бреготролль</ESCP_TrollCoastal.labelMale>
+  <ESCP_TrollCoastal.labelMalePlural>Бреготролли</ESCP_TrollCoastal.labelMalePlural>
+  <ESCP_TrollCoastal.labelFemale>Бреготролльня</ESCP_TrollCoastal.labelFemale>
+  <ESCP_TrollCoastal.labelFemalePlural>Бреготролльни</ESCP_TrollCoastal.labelFemalePlural>
+
+
+  <!-- [ESCP_TrollAnima] -->
+
+  <ESCP_TrollAnima.label>Аниматролль</ESCP_TrollAnima.label>
+  <ESCP_TrollAnima.labelPlural>Аниматролли</ESCP_TrollAnima.labelPlural>
+  <ESCP_TrollAnima.lifeStages.0.label>Аниматролльчик</ESCP_TrollAnima.lifeStages.0.label>
+  <ESCP_TrollAnima.lifeStages.0.labelPlural>Аниматролльчики</ESCP_TrollAnima.lifeStages.0.labelPlural>
+  <ESCP_TrollAnima.lifeStages.0.labelMale>Аниматролльчик</ESCP_TrollAnima.lifeStages.0.labelMale>
+  <ESCP_TrollAnima.lifeStages.0.labelMalePlural>Аниматролльчики</ESCP_TrollAnima.lifeStages.0.labelMalePlural>
+  <ESCP_TrollAnima.lifeStages.0.labelFemale>Аниматроллька</ESCP_TrollAnima.lifeStages.0.labelFemale>
+  <ESCP_TrollAnima.lifeStages.0.labelFemalePlural>Аниматролльки</ESCP_TrollAnima.lifeStages.0.labelFemalePlural>
+  <ESCP_TrollAnima.lifeStages.1.label>Аниматролльник</ESCP_TrollAnima.lifeStages.1.label>
+  <ESCP_TrollAnima.lifeStages.1.labelPlural>Аниматролльники</ESCP_TrollAnima.lifeStages.1.labelPlural>
+  <ESCP_TrollAnima.lifeStages.1.labelMale>Аниматролльник</ESCP_TrollAnima.lifeStages.1.labelMale>
+  <ESCP_TrollAnima.lifeStages.1.labelMalePlural>Аниматролльники</ESCP_TrollAnima.lifeStages.1.labelMalePlural>
+  <ESCP_TrollAnima.lifeStages.1.labelFemale>Аниматроллья</ESCP_TrollAnima.lifeStages.1.labelFemale>
+  <ESCP_TrollAnima.lifeStages.1.labelFemalePlural>Аниматролльи</ESCP_TrollAnima.lifeStages.1.labelFemalePlural>
+  <ESCP_TrollAnima.lifeStages.2.label>Аниматролль</ESCP_TrollAnima.lifeStages.2.label>
+  <ESCP_TrollAnima.lifeStages.2.labelPlural>Аниматролли</ESCP_TrollAnima.lifeStages.2.labelPlural>
+  <ESCP_TrollAnima.lifeStages.2.labelMale>Аниматролль</ESCP_TrollAnima.lifeStages.2.labelMale>
+  <ESCP_TrollAnima.lifeStages.2.labelMalePlural>Аниматролли</ESCP_TrollAnima.lifeStages.2.labelMalePlural>
+  <ESCP_TrollAnima.lifeStages.2.labelFemale>Аниматролльня</ESCP_TrollAnima.lifeStages.2.labelFemale>
+  <ESCP_TrollAnima.lifeStages.2.labelFemalePlural>Аниматролльни</ESCP_TrollAnima.lifeStages.2.labelFemalePlural>
+  <ESCP_TrollAnima.labelMale>Аниматролль</ESCP_TrollAnima.labelMale>
+  <ESCP_TrollAnima.labelMalePlural>Аниматролли</ESCP_TrollAnima.labelMalePlural>
+  <ESCP_TrollAnima.labelFemale>Аниматролльня</ESCP_TrollAnima.labelFemale>
+  <ESCP_TrollAnima.labelFemalePlural>Аниматролльни</ESCP_TrollAnima.labelFemalePlural>
+
+
+</LanguageData>

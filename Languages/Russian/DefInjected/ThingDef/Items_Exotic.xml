@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- [ESCP_GrahlTusk] -->
+
+  <ESCP_GrahlTusk.label>Клыкъ Грахля</ESCP_GrahlTusk.label>
+  <ESCP_GrahlTusk.description>Длинный клыкъ ​Грахля​. Онъ очень прочный и цѣнный. Въ качествѣ оружія ближняго боя онъ немного громоздокъ, но ​всё​ равно смертоносенъ.</ESCP_GrahlTusk.description>
+  <ESCP_GrahlTusk.tools.0.label>Остріе</ESCP_GrahlTusk.tools.0.label>
+  <ESCP_GrahlTusk.tools.1.label>Основаніе</ESCP_GrahlTusk.tools.1.label>
+
+
+  <!-- [ESCP_UderfrykteTusk] -->
+
+  <ESCP_UderfrykteTusk.label>Бивень Удырфрухтера</ESCP_UderfrykteTusk.label>
+  <ESCP_UderfrykteTusk.description>Бивень Удырфрухтера. Онъ очень прочный и цѣнный и хорошо подходитъ въ качествѣ оружія. </ESCP_UderfrykteTusk.description>
+  <ESCP_UderfrykteTusk.tools.0.label>Остріе</ESCP_UderfrykteTusk.tools.0.label>
+  <ESCP_UderfrykteTusk.tools.1.label>Основаніе</ESCP_UderfrykteTusk.tools.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- [ESCP_TrollBarren] -->
+
+  <ESCP_TrollBarren.label>Степитролль</ESCP_TrollBarren.label>
+  <ESCP_TrollBarren.labelPlural>Степитролли</ESCP_TrollBarren.labelPlural>
+  <ESCP_TrollBarren.lifeStages.0.label>Степитролльчикъ</ESCP_TrollBarren.lifeStages.0.label>
+  <ESCP_TrollBarren.lifeStages.0.labelPlural>Степитролльчики</ESCP_TrollBarren.lifeStages.0.labelPlural>
+  <ESCP_TrollBarren.lifeStages.0.labelMale>Степитролльчикъ</ESCP_TrollBarren.lifeStages.0.labelMale>
+  <ESCP_TrollBarren.lifeStages.0.labelMalePlural>Степитролльчики</ESCP_TrollBarren.lifeStages.0.labelMalePlural>
+  <ESCP_TrollBarren.lifeStages.0.labelFemale>Степитроллька</ESCP_TrollBarren.lifeStages.0.labelFemale>
+  <ESCP_TrollBarren.lifeStages.0.labelFemalePlural>Степитролльки</ESCP_TrollBarren.lifeStages.0.labelFemalePlural>
+  <ESCP_TrollBarren.lifeStages.1.label>Степитролльникъ</ESCP_TrollBarren.lifeStages.1.label>
+  <ESCP_TrollBarren.lifeStages.1.labelPlural>Степитролльники</ESCP_TrollBarren.lifeStages.1.labelPlural>
+  <ESCP_TrollBarren.lifeStages.1.labelMale>Степитролльникъ</ESCP_TrollBarren.lifeStages.1.labelMale>
+  <ESCP_TrollBarren.lifeStages.1.labelMalePlural>Степитролльники</ESCP_TrollBarren.lifeStages.1.labelMalePlural>
+  <ESCP_TrollBarren.lifeStages.1.labelFemale>Степитроллья</ESCP_TrollBarren.lifeStages.1.labelFemale>
+  <ESCP_TrollBarren.lifeStages.1.labelFemalePlural>Степитролльи</ESCP_TrollBarren.lifeStages.1.labelFemalePlural>
+  <ESCP_TrollBarren.lifeStages.2.label>Степитролль</ESCP_TrollBarren.lifeStages.2.label>
+  <ESCP_TrollBarren.lifeStages.2.labelPlural>Степитролли</ESCP_TrollBarren.lifeStages.2.labelPlural>
+  <ESCP_TrollBarren.lifeStages.2.labelMale>Степитролль</ESCP_TrollBarren.lifeStages.2.labelMale>
+  <ESCP_TrollBarren.lifeStages.2.labelMalePlural>Степитролли</ESCP_TrollBarren.lifeStages.2.labelMalePlural>
+  <ESCP_TrollBarren.lifeStages.2.labelFemale>Степитролльня</ESCP_TrollBarren.lifeStages.2.labelFemale>
+  <ESCP_TrollBarren.lifeStages.2.labelFemalePlural>Степитролльни</ESCP_TrollBarren.lifeStages.2.labelFemalePlural>
+  <ESCP_TrollBarren.labelMale>Степитролль</ESCP_TrollBarren.labelMale>
+  <ESCP_TrollBarren.labelMalePlural>Степитролли</ESCP_TrollBarren.labelMalePlural>
+  <ESCP_TrollBarren.labelFemale>Степитролльня</ESCP_TrollBarren.labelFemale>
+  <ESCP_TrollBarren.labelFemalePlural>Степитролльни</ESCP_TrollBarren.labelFemalePlural>
+
+
+  <!-- [ESCP_TrollForest] -->
+
+  <ESCP_TrollForest.label>Лесотролль</ESCP_TrollForest.label>
+  <ESCP_TrollForest.labelPlural>Лесотролли</ESCP_TrollForest.labelPlural>
+  <ESCP_TrollForest.lifeStages.0.label>Лесотролльчикъ</ESCP_TrollForest.lifeStages.0.label>
+  <ESCP_TrollForest.lifeStages.0.labelPlural>Лесотролльчики</ESCP_TrollForest.lifeStages.0.labelPlural>
+  <ESCP_TrollForest.lifeStages.0.labelMale>Лесотролльчикъ</ESCP_TrollForest.lifeStages.0.labelMale>
+  <ESCP_TrollForest.lifeStages.0.labelMalePlural>Лесотролльчики</ESCP_TrollForest.lifeStages.0.labelMalePlural>
+  <ESCP_TrollForest.lifeStages.0.labelFemale>Лесотроллька</ESCP_TrollForest.lifeStages.0.labelFemale>
+  <ESCP_TrollForest.lifeStages.0.labelFemalePlural>Лесотролльки</ESCP_TrollForest.lifeStages.0.labelFemalePlural>
+  <ESCP_TrollForest.lifeStages.1.label>Лесотролльникъ</ESCP_TrollForest.lifeStages.1.label>
+  <ESCP_TrollForest.lifeStages.1.labelPlural>Лесотролльники</ESCP_TrollForest.lifeStages.1.labelPlural>
+  <ESCP_TrollForest.lifeStages.1.labelMale>Лесотролльникъ</ESCP_TrollForest.lifeStages.1.labelMale>
+  <ESCP_TrollForest.lifeStages.1.labelMalePlural>Лесотролльники</ESCP_TrollForest.lifeStages.1.labelMalePlural>
+  <ESCP_TrollForest.lifeStages.1.labelFemale>Лесотроллья</ESCP_TrollForest.lifeStages.1.labelFemale>
+  <ESCP_TrollForest.lifeStages.1.labelFemalePlural>Лесотролльи</ESCP_TrollForest.lifeStages.1.labelFemalePlural>
+  <ESCP_TrollForest.lifeStages.2.label>Лесотролль</ESCP_TrollForest.lifeStages.2.label>
+  <ESCP_TrollForest.lifeStages.2.labelPlural>Лесотролли</ESCP_TrollForest.lifeStages.2.labelPlural>
+  <ESCP_TrollForest.lifeStages.2.labelMale>Лесотролль</ESCP_TrollForest.lifeStages.2.labelMale>
+  <ESCP_TrollForest.lifeStages.2.labelMalePlural>Лесотролли</ESCP_TrollForest.lifeStages.2.labelMalePlural>
+  <ESCP_TrollForest.lifeStages.2.labelFemale>Лесотролльня</ESCP_TrollForest.lifeStages.2.labelFemale>
+  <ESCP_TrollForest.lifeStages.2.labelFemalePlural>Лесотролльни</ESCP_TrollForest.lifeStages.2.labelFemalePlural>
+  <ESCP_TrollForest.labelMale>Лесотролль</ESCP_TrollForest.labelMale>
+  <ESCP_TrollForest.labelMalePlural>Лесотролли</ESCP_TrollForest.labelMalePlural>
+  <ESCP_TrollForest.labelFemale>Лесотролльня</ESCP_TrollForest.labelFemale>
+  <ESCP_TrollForest.labelFemalePlural>Лесотролльни</ESCP_TrollForest.labelFemalePlural>
+
+
+  <!-- [ESCP_TrollPygmy] -->
+
+  <ESCP_TrollPygmy.label>Пигмотролль</ESCP_TrollPygmy.label>
+  <ESCP_TrollPygmy.labelPlural>Пигмотролли</ESCP_TrollPygmy.labelPlural>
+  <ESCP_TrollPygmy.lifeStages.0.label>Пигмотролльчикъ</ESCP_TrollPygmy.lifeStages.0.label>
+  <ESCP_TrollPygmy.lifeStages.0.labelPlural>Пигмотролльчики</ESCP_TrollPygmy.lifeStages.0.labelPlural>
+  <ESCP_TrollPygmy.lifeStages.0.labelMale>Пигмотролльчикъ</ESCP_TrollPygmy.lifeStages.0.labelMale>
+  <ESCP_TrollPygmy.lifeStages.0.labelMalePlural>Пигмотролльчики</ESCP_TrollPygmy.lifeStages.0.labelMalePlural>
+  <ESCP_TrollPygmy.lifeStages.0.labelFemale>Пигмотроллька</ESCP_TrollPygmy.lifeStages.0.labelFemale>
+  <ESCP_TrollPygmy.lifeStages.0.labelFemalePlural>Пигмотролльки</ESCP_TrollPygmy.lifeStages.0.labelFemalePlural>
+  <ESCP_TrollPygmy.lifeStages.1.label>Пигмотролльникъ</ESCP_TrollPygmy.lifeStages.1.label>
+  <ESCP_TrollPygmy.lifeStages.1.labelPlural>Пигмотролльники</ESCP_TrollPygmy.lifeStages.1.labelPlural>
+  <ESCP_TrollPygmy.lifeStages.1.labelMale>Пигмотролльникъ</ESCP_TrollPygmy.lifeStages.1.labelMale>
+  <ESCP_TrollPygmy.lifeStages.1.labelMalePlural>Пигмотролльники</ESCP_TrollPygmy.lifeStages.1.labelMalePlural>
+  <ESCP_TrollPygmy.lifeStages.1.labelFemale>Пигмотроллья</ESCP_TrollPygmy.lifeStages.1.labelFemale>
+  <ESCP_TrollPygmy.lifeStages.1.labelFemalePlural>Пигмотролльи</ESCP_TrollPygmy.lifeStages.1.labelFemalePlural>
+  <ESCP_TrollPygmy.lifeStages.2.label>Пигмотролль</ESCP_TrollPygmy.lifeStages.2.label>
+  <ESCP_TrollPygmy.lifeStages.2.labelPlural>Пигмотролли</ESCP_TrollPygmy.lifeStages.2.labelPlural>
+  <ESCP_TrollPygmy.lifeStages.2.labelMale>Пигмотролль</ESCP_TrollPygmy.lifeStages.2.labelMale>
+  <ESCP_TrollPygmy.lifeStages.2.labelMalePlural>Пигмотролли</ESCP_TrollPygmy.lifeStages.2.labelMalePlural>
+  <ESCP_TrollPygmy.lifeStages.2.labelFemale>Пигмотролльня</ESCP_TrollPygmy.lifeStages.2.labelFemale>
+  <ESCP_TrollPygmy.lifeStages.2.labelFemalePlural>Пигмотролльни</ESCP_TrollPygmy.lifeStages.2.labelFemalePlural>
+  <ESCP_TrollPygmy.labelMale>Пигмотролль</ESCP_TrollPygmy.labelMale>
+  <ESCP_TrollPygmy.labelMalePlural>Пигмотролли</ESCP_TrollPygmy.labelMalePlural>
+  <ESCP_TrollPygmy.labelFemale>Пигмотролльня</ESCP_TrollPygmy.labelFemale>
+  <ESCP_TrollPygmy.labelFemalePlural>Пигмотролльни</ESCP_TrollPygmy.labelFemalePlural>
+
+
+  <!-- [ESCP_TrollSwamp] -->
+
+  <ESCP_TrollSwamp.label>Болотролль</ESCP_TrollSwamp.label>
+  <ESCP_TrollSwamp.labelPlural>Болотролли</ESCP_TrollSwamp.labelPlural>
+  <ESCP_TrollSwamp.lifeStages.0.label>Болотролльчикъ</ESCP_TrollSwamp.lifeStages.0.label>
+  <ESCP_TrollSwamp.lifeStages.0.labelPlural>Болотролльчики</ESCP_TrollSwamp.lifeStages.0.labelPlural>
+  <ESCP_TrollSwamp.lifeStages.0.labelMale>Болотролльчикъ</ESCP_TrollSwamp.lifeStages.0.labelMale>
+  <ESCP_TrollSwamp.lifeStages.0.labelMalePlural>Болотролльчики</ESCP_TrollSwamp.lifeStages.0.labelMalePlural>
+  <ESCP_TrollSwamp.lifeStages.0.labelFemale>Болотроллька</ESCP_TrollSwamp.lifeStages.0.labelFemale>
+  <ESCP_TrollSwamp.lifeStages.0.labelFemalePlural>Болотролльки</ESCP_TrollSwamp.lifeStages.0.labelFemalePlural>
+  <ESCP_TrollSwamp.lifeStages.1.label>Болотролльникъ</ESCP_TrollSwamp.lifeStages.1.label>
+  <ESCP_TrollSwamp.lifeStages.1.labelPlural>Болотролльники</ESCP_TrollSwamp.lifeStages.1.labelPlural>
+  <ESCP_TrollSwamp.lifeStages.1.labelMale>Болотролльникъ</ESCP_TrollSwamp.lifeStages.1.labelMale>
+  <ESCP_TrollSwamp.lifeStages.1.labelMalePlural>Болотролльники</ESCP_TrollSwamp.lifeStages.1.labelMalePlural>
+  <ESCP_TrollSwamp.lifeStages.1.labelFemale>Болотроллья</ESCP_TrollSwamp.lifeStages.1.labelFemale>
+  <ESCP_TrollSwamp.lifeStages.1.labelFemalePlural>Болотролльи</ESCP_TrollSwamp.lifeStages.1.labelFemalePlural>
+  <ESCP_TrollSwamp.lifeStages.2.label>Болотролль</ESCP_TrollSwamp.lifeStages.2.label>
+  <ESCP_TrollSwamp.lifeStages.2.labelPlural>Болотролли</ESCP_TrollSwamp.lifeStages.2.labelPlural>
+  <ESCP_TrollSwamp.lifeStages.2.labelMale>Болотролль</ESCP_TrollSwamp.lifeStages.2.labelMale>
+  <ESCP_TrollSwamp.lifeStages.2.labelMalePlural>Болотролли</ESCP_TrollSwamp.lifeStages.2.labelMalePlural>
+  <ESCP_TrollSwamp.lifeStages.2.labelFemale>Болотролльня</ESCP_TrollSwamp.lifeStages.2.labelFemale>
+  <ESCP_TrollSwamp.lifeStages.2.labelFemalePlural>Болотролльни</ESCP_TrollSwamp.lifeStages.2.labelFemalePlural>
+  <ESCP_TrollSwamp.labelMale>Болотролль</ESCP_TrollSwamp.labelMale>
+  <ESCP_TrollSwamp.labelMalePlural>Болотролли</ESCP_TrollSwamp.labelMalePlural>
+  <ESCP_TrollSwamp.labelFemale>Болотролльня</ESCP_TrollSwamp.labelFemale>
+  <ESCP_TrollSwamp.labelFemalePlural>Болотролльни</ESCP_TrollSwamp.labelFemalePlural>
+
+
+  <!-- [ESCP_TrollFungal] -->
+
+  <ESCP_TrollFungal.label>Гриботролль</ESCP_TrollFungal.label>
+  <ESCP_TrollFungal.labelPlural>Гриботролли</ESCP_TrollFungal.labelPlural>
+  <ESCP_TrollFungal.lifeStages.0.label>Гриботролльчикъ</ESCP_TrollFungal.lifeStages.0.label>
+  <ESCP_TrollFungal.lifeStages.0.labelPlural>Гриботролльчики</ESCP_TrollFungal.lifeStages.0.labelPlural>
+  <ESCP_TrollFungal.lifeStages.0.labelMale>Гриботролльчикъ</ESCP_TrollFungal.lifeStages.0.labelMale>
+  <ESCP_TrollFungal.lifeStages.0.labelMalePlural>Гриботролльчики</ESCP_TrollFungal.lifeStages.0.labelMalePlural>
+  <ESCP_TrollFungal.lifeStages.0.labelFemale>Гриботроллька</ESCP_TrollFungal.lifeStages.0.labelFemale>
+  <ESCP_TrollFungal.lifeStages.0.labelFemalePlural>Гриботролльки</ESCP_TrollFungal.lifeStages.0.labelFemalePlural>
+  <ESCP_TrollFungal.lifeStages.1.label>Гриботролльникъ</ESCP_TrollFungal.lifeStages.1.label>
+  <ESCP_TrollFungal.lifeStages.1.labelPlural>Гриботролльники</ESCP_TrollFungal.lifeStages.1.labelPlural>
+  <ESCP_TrollFungal.lifeStages.1.labelMale>Гриботролльникъ</ESCP_TrollFungal.lifeStages.1.labelMale>
+  <ESCP_TrollFungal.lifeStages.1.labelMalePlural>Гриботролльники</ESCP_TrollFungal.lifeStages.1.labelMalePlural>
+  <ESCP_TrollFungal.lifeStages.1.labelFemale>Гриботроллья</ESCP_TrollFungal.lifeStages.1.labelFemale>
+  <ESCP_TrollFungal.lifeStages.1.labelFemalePlural>Гриботролльи</ESCP_TrollFungal.lifeStages.1.labelFemalePlural>
+  <ESCP_TrollFungal.lifeStages.2.label>Гриботролль</ESCP_TrollFungal.lifeStages.2.label>
+  <ESCP_TrollFungal.lifeStages.2.labelPlural>Гриботролли</ESCP_TrollFungal.lifeStages.2.labelPlural>
+  <ESCP_TrollFungal.lifeStages.2.labelMale>Гриботролль</ESCP_TrollFungal.lifeStages.2.labelMale>
+  <ESCP_TrollFungal.lifeStages.2.labelMalePlural>Гриботролли</ESCP_TrollFungal.lifeStages.2.labelMalePlural>
+  <ESCP_TrollFungal.lifeStages.2.labelFemale>Гриботролльня</ESCP_TrollFungal.lifeStages.2.labelFemale>
+  <ESCP_TrollFungal.lifeStages.2.labelFemalePlural>Гриботролльни</ESCP_TrollFungal.lifeStages.2.labelFemalePlural>
+  <ESCP_TrollFungal.labelMale>Гриботролль</ESCP_TrollFungal.labelMale>
+  <ESCP_TrollFungal.labelMalePlural>Гриботролли</ESCP_TrollFungal.labelMalePlural>
+  <ESCP_TrollFungal.labelFemale>Гриботролльня</ESCP_TrollFungal.labelFemale>
+  <ESCP_TrollFungal.labelFemalePlural>Гриботролльни</ESCP_TrollFungal.labelFemalePlural>
+
+
+  <!-- [ESCP_TrollBoom] -->
+
+  <ESCP_TrollBoom.label>Бумтролль</ESCP_TrollBoom.label>
+  <ESCP_TrollBoom.lifeStages.0.label>Бумтролльчикъ</ESCP_TrollBoom.lifeStages.0.label>
+  <ESCP_TrollBoom.lifeStages.0.labelPlural>Бумтролльчики</ESCP_TrollBoom.lifeStages.0.labelPlural>
+  <ESCP_TrollBoom.lifeStages.0.labelMale>Бумтролльчикъ</ESCP_TrollBoom.lifeStages.0.labelMale>
+  <ESCP_TrollBoom.lifeStages.0.labelMalePlural>Бумтролльчики</ESCP_TrollBoom.lifeStages.0.labelMalePlural>
+  <ESCP_TrollBoom.lifeStages.0.labelFemale>Бумтроллька</ESCP_TrollBoom.lifeStages.0.labelFemale>
+  <ESCP_TrollBoom.lifeStages.0.labelFemalePlural>Бумтролльки</ESCP_TrollBoom.lifeStages.0.labelFemalePlural>
+  <ESCP_TrollBoom.lifeStages.1.label>Бумтролльникъ</ESCP_TrollBoom.lifeStages.1.label>
+  <ESCP_TrollBoom.lifeStages.1.labelPlural>Бумтролльники</ESCP_TrollBoom.lifeStages.1.labelPlural>
+  <ESCP_TrollBoom.lifeStages.1.labelMale>Бумтролльникъ</ESCP_TrollBoom.lifeStages.1.labelMale>
+  <ESCP_TrollBoom.lifeStages.1.labelMalePlural>Бумтролльники</ESCP_TrollBoom.lifeStages.1.labelMalePlural>
+  <ESCP_TrollBoom.lifeStages.1.labelFemale>Бумтроллья</ESCP_TrollBoom.lifeStages.1.labelFemale>
+  <ESCP_TrollBoom.lifeStages.1.labelFemalePlural>Бумтролльи</ESCP_TrollBoom.lifeStages.1.labelFemalePlural>
+  <ESCP_TrollBoom.lifeStages.2.label>Бумтролль</ESCP_TrollBoom.lifeStages.2.label>
+  <ESCP_TrollBoom.lifeStages.2.labelPlural>Бумтролли</ESCP_TrollBoom.lifeStages.2.labelPlural>
+  <ESCP_TrollBoom.lifeStages.2.labelMale>Бумтролль</ESCP_TrollBoom.lifeStages.2.labelMale>
+  <ESCP_TrollBoom.lifeStages.2.labelMalePlural>Бумтролли</ESCP_TrollBoom.lifeStages.2.labelMalePlural>
+  <ESCP_TrollBoom.lifeStages.2.labelFemale>Бумтролльня</ESCP_TrollBoom.lifeStages.2.labelFemale>
+  <ESCP_TrollBoom.lifeStages.2.labelFemalePlural>Бумтролльни</ESCP_TrollBoom.lifeStages.2.labelFemalePlural>
+  <ESCP_TrollBoom.labelMale>Бумтролль</ESCP_TrollBoom.labelMale>
+  <ESCP_TrollBoom.labelMalePlural>Бумтролли</ESCP_TrollBoom.labelMalePlural>
+  <ESCP_TrollBoom.labelFemale>Бумтролльня</ESCP_TrollBoom.labelFemale>
+  <ESCP_TrollBoom.labelFemalePlural>Бумтролльни</ESCP_TrollBoom.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="XSD_FILE_PATH">
+
+    <ESCP_Trolls_LetterLabelTrollWandersIn>{0} забредаетъ въ ваши владѣнія</ESCP_Trolls_LetterLabelTrollWandersIn>
+    <ESCP_Trolls_LetterTrollWandersIn>{0} забрелъ въ этотъ районъ. Вы можете убить его или попытаться приручить.</ESCP_Trolls_LetterTrollWandersIn>
+	
+	<!-- Settings -->
+	<ESCP_Trolls_ModName>ESCP - Trolls</ESCP_Trolls_ModName>
+	<ESCP_Reset>Сброс всех настроек</ESCP_Reset>
+	
+	<ESCP_Trolls_EnableTrollHuntQuest>Включить квест под названием "Охота на Багрянорожденного Тролля"</ESCP_Trolls_EnableTrollHuntQuest>
+	<ESCP_Trolls_EnableAnimaTrollIncident>Включить инцидент с участием Анима Тролля"</ESCP_Trolls_EnableAnimaTrollIncident>
+	<ESCP_Trolls_TrollCommonalityMult>Множитель влияющий на частоту порождения троллей</ESCP_Trolls_TrollCommonalityMult>
+	<ESCP_Trolls_TileFeatureRequirement>Для порождения конкретных троллей требуется определенная региональная среда</ESCP_Trolls_TileFeatureRequirement>
+	<ESCP_Trolls_TileFeatureRequirement_Tooltip>Если эта функция включена, определенные типы троллей будут появляться только на картах с определенными характеристиками, такими как реки или пещеры. \n\nЭто повлияет на:</ESCP_Trolls_TileFeatureRequirement_Tooltip>
+	
+</LanguageData>

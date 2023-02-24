@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- [ESCP_ElixirRegeneration] -->
+
+  <ESCP_ElixirRegeneration.label>Настойка Тролльей Крови</ESCP_ElixirRegeneration.label>
+  <ESCP_ElixirRegeneration.description>Возстанавливающій цѣлебный отваръ, настоянный на ​тролльей​ крови. Когда его принимаютъ, онъ активируетъ невѣроятный обмѣнъ веществъ и немедленно сворачиваетъ кровь на отрыто кровоточащихъ ранахъ. Количество возстановленныхъ ранъ и качество исцѣленія зависятъ отъ качества самой настойки, что возстанавливаетъ одну рану за уровень качества при качествѣ лѣченія 20% за уровень качества.</ESCP_ElixirRegeneration.description>
+  <ESCP_ElixirRegeneration.ingestible.ingestCommandString>Принять {0}</ESCP_ElixirRegeneration.ingestible.ingestCommandString>
+  <ESCP_ElixirRegeneration.ingestible.ingestReportString>Принимаетъ {0}.</ESCP_ElixirRegeneration.ingestible.ingestReportString>
+
+
+  <!-- [ESCP_ElixirRegenerationDelayed] -->
+
+  <ESCP_ElixirRegenerationDelayed.label>Отваръ Тролльей Крови</ESCP_ElixirRegenerationDelayed.label>
+  <ESCP_ElixirRegenerationDelayed.description>Возстанавливающій и очень густой цѣлебный отваръ, приготовленный изъ крови тролля. При глотаніи повышаетъ обмѣнъ веществъ и постоянно заживляетъ ​кровоточащія​ раны въ теченіи короткаго періода времени. Продолжительность эффекта зависитъ отъ качества отвару: отваръ дѣйствуетъ одинъ часъ за каждый уровень качества. Эффектъ можно накапливать до 24 часовъ. Эффектъ аннулируется, если проглотившій эликсиръ находится въ огнѣ.</ESCP_ElixirRegenerationDelayed.description>
+  <ESCP_ElixirRegenerationDelayed.ingestible.ingestCommandString>Принять {0}</ESCP_ElixirRegenerationDelayed.ingestible.ingestCommandString>
+  <ESCP_ElixirRegenerationDelayed.ingestible.ingestReportString>Принимаетъ {0}.</ESCP_ElixirRegenerationDelayed.ingestible.ingestReportString>
+
+
+</LanguageData>

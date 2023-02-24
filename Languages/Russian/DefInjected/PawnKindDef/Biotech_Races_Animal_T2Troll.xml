@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- [ESCP_TrollToxi] -->
+
+  <ESCP_TrollToxi.label>Токситролль</ESCP_TrollToxi.label>
+  <ESCP_TrollToxi.labelPlural>Токситролли</ESCP_TrollToxi.labelPlural>
+  <ESCP_TrollToxi.lifeStages.0.label>Токситролльчикъ</ESCP_TrollToxi.lifeStages.0.label>
+  <ESCP_TrollToxi.lifeStages.0.labelPlural>Токситролльчики</ESCP_TrollToxi.lifeStages.0.labelPlural>
+  <ESCP_TrollToxi.lifeStages.0.labelMale>Токситролльчикъ</ESCP_TrollToxi.lifeStages.0.labelMale>
+  <ESCP_TrollToxi.lifeStages.0.labelMalePlural>Токситролльчики</ESCP_TrollToxi.lifeStages.0.labelMalePlural>
+  <ESCP_TrollToxi.lifeStages.0.labelFemale>Токситроллька</ESCP_TrollToxi.lifeStages.0.labelFemale>
+  <ESCP_TrollToxi.lifeStages.0.labelFemalePlural>Токситролльки</ESCP_TrollToxi.lifeStages.0.labelFemalePlural>
+  <ESCP_TrollToxi.lifeStages.1.label>Токситролльникъ</ESCP_TrollToxi.lifeStages.1.label>
+  <ESCP_TrollToxi.lifeStages.1.labelPlural>Токситролльники</ESCP_TrollToxi.lifeStages.1.labelPlural>
+  <ESCP_TrollToxi.lifeStages.1.labelMale>Токситролльникъ</ESCP_TrollToxi.lifeStages.1.labelMale>
+  <ESCP_TrollToxi.lifeStages.1.labelMalePlural>Токситролльники</ESCP_TrollToxi.lifeStages.1.labelMalePlural>
+  <ESCP_TrollToxi.lifeStages.1.labelFemale>Токситроллья</ESCP_TrollToxi.lifeStages.1.labelFemale>
+  <ESCP_TrollToxi.lifeStages.1.labelFemalePlural>Токситролльи</ESCP_TrollToxi.lifeStages.1.labelFemalePlural>
+  <ESCP_TrollToxi.lifeStages.2.label>Токситролль</ESCP_TrollToxi.lifeStages.2.label>
+  <ESCP_TrollToxi.lifeStages.2.labelPlural>Токситролли</ESCP_TrollToxi.lifeStages.2.labelPlural>
+  <ESCP_TrollToxi.lifeStages.2.labelMale>Токситролль</ESCP_TrollToxi.lifeStages.2.labelMale>
+  <ESCP_TrollToxi.lifeStages.2.labelMalePlural>Токситролли</ESCP_TrollToxi.lifeStages.2.labelMalePlural>
+  <ESCP_TrollToxi.lifeStages.2.labelFemale>Токситролльня</ESCP_TrollToxi.lifeStages.2.labelFemale>
+  <ESCP_TrollToxi.lifeStages.2.labelFemalePlural>Токситролльни</ESCP_TrollToxi.lifeStages.2.labelFemalePlural>
+  <ESCP_TrollToxi.labelMale>Токситролль</ESCP_TrollToxi.labelMale>
+  <ESCP_TrollToxi.labelMalePlural>Токситролли</ESCP_TrollToxi.labelMalePlural>
+  <ESCP_TrollToxi.labelFemale>Токситролльня</ESCP_TrollToxi.labelFemale>
+  <ESCP_TrollToxi.labelFemalePlural>Токситролльни</ESCP_TrollToxi.labelFemalePlural>
+
+
+  <!-- [ESCP_TrollHaemo] -->
+
+  <ESCP_TrollHaemo.label>Кровотролль</ESCP_TrollHaemo.label>
+  <ESCP_TrollHaemo.labelPlural>Кровотролли</ESCP_TrollHaemo.labelPlural>
+  <ESCP_TrollHaemo.lifeStages.0.label>Кровотролльчикъ</ESCP_TrollHaemo.lifeStages.0.label>
+  <ESCP_TrollHaemo.lifeStages.0.labelPlural>Кровотролльчики</ESCP_TrollHaemo.lifeStages.0.labelPlural>
+  <ESCP_TrollHaemo.lifeStages.0.labelMale>Кровотролльчикъ</ESCP_TrollHaemo.lifeStages.0.labelMale>
+  <ESCP_TrollHaemo.lifeStages.0.labelMalePlural>Кровотролльчикъ</ESCP_TrollHaemo.lifeStages.0.labelMalePlural>
+  <ESCP_TrollHaemo.lifeStages.0.labelFemale>Кровотроллька</ESCP_TrollHaemo.lifeStages.0.labelFemale>
+  <ESCP_TrollHaemo.lifeStages.0.labelFemalePlural>Кровотролльки</ESCP_TrollHaemo.lifeStages.0.labelFemalePlural>
+  <ESCP_TrollHaemo.lifeStages.1.label>Кровотролльникъ</ESCP_TrollHaemo.lifeStages.1.label>
+  <ESCP_TrollHaemo.lifeStages.1.labelPlural>Кровотролльники</ESCP_TrollHaemo.lifeStages.1.labelPlural>
+  <ESCP_TrollHaemo.lifeStages.1.labelMale>Кровотролльникъ</ESCP_TrollHaemo.lifeStages.1.labelMale>
+  <ESCP_TrollHaemo.lifeStages.1.labelMalePlural>Кровотролльники</ESCP_TrollHaemo.lifeStages.1.labelMalePlural>
+  <ESCP_TrollHaemo.lifeStages.1.labelFemale>Кровотроллья</ESCP_TrollHaemo.lifeStages.1.labelFemale>
+  <ESCP_TrollHaemo.lifeStages.1.labelFemalePlural>Кровотролльи</ESCP_TrollHaemo.lifeStages.1.labelFemalePlural>
+  <ESCP_TrollHaemo.lifeStages.2.label>Кровотролль</ESCP_TrollHaemo.lifeStages.2.label>
+  <ESCP_TrollHaemo.lifeStages.2.labelPlural>Кровотролли</ESCP_TrollHaemo.lifeStages.2.labelPlural>
+  <ESCP_TrollHaemo.lifeStages.2.labelMale>Кровотролль</ESCP_TrollHaemo.lifeStages.2.labelMale>
+  <ESCP_TrollHaemo.lifeStages.2.labelMalePlural>Кровотролли</ESCP_TrollHaemo.lifeStages.2.labelMalePlural>
+  <ESCP_TrollHaemo.lifeStages.2.labelFemale>Кровотролльня</ESCP_TrollHaemo.lifeStages.2.labelFemale>
+  <ESCP_TrollHaemo.lifeStages.2.labelFemalePlural>Кровотролльни</ESCP_TrollHaemo.lifeStages.2.labelFemalePlural>
+  <ESCP_TrollHaemo.labelMale>Кровотролль</ESCP_TrollHaemo.labelMale>
+  <ESCP_TrollHaemo.labelMalePlural>Кровотролли</ESCP_TrollHaemo.labelMalePlural>
+  <ESCP_TrollHaemo.labelFemale>Кровотролльня</ESCP_TrollHaemo.labelFemale>
+  <ESCP_TrollHaemo.labelFemalePlural>Кровотролльни</ESCP_TrollHaemo.labelFemalePlural>
+
+
+</LanguageData>

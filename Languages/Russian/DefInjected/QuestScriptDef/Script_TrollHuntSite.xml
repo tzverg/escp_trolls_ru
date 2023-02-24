@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ESCP_AfflictedTrollSite.root.nodes.3.name>​Просящіе​</ESCP_AfflictedTrollSite.root.nodes.3.name>
+  <ESCP_AfflictedTrollSite.root.nodes.3.elseNode.nodes.0.name>Просящихъ нѣтъ</ESCP_AfflictedTrollSite.root.nodes.3.elseNode.nodes.0.name>
+  <ESCP_AfflictedTrollSite.root.nodes.12.node.nodes.0.label>Истекъ срокъ дѣйствія слѣдующей миссіи: [resolvedQuestName]</ESCP_AfflictedTrollSite.root.nodes.12.node.nodes.0.label>
+  <ESCP_AfflictedTrollSite.root.nodes.12.node.nodes.0.text>Мы получили интересную вѣсть，кто-то неизвѣстный погубилъ багрянорожденного тролля. Миссія [resolvedQuestName] завершена.</ESCP_AfflictedTrollSite.root.nodes.12.node.nodes.0.text>
+  <ESCP_AfflictedTrollSite.root.nodes.14.node.nodes.0.label>Провалъ миссіи: [resolvedQuestName]</ESCP_AfflictedTrollSite.root.nodes.14.node.nodes.0.label>
+  <ESCP_AfflictedTrollSite.root.nodes.14.node.nodes.0.text>Послѣ обнаруженія，​багрянорожденный​ тролль почувствовалъ опасность и покинулъ лагерь. Миссія [resolvedQuestName] завершена。</ESCP_AfflictedTrollSite.root.nodes.14.node.nodes.0.text>
+  <ESCP_AfflictedTrollSite.root.nodes.15.node.nodes.0.nodeIfChosenPawnSignalUsed.label>[asker_faction_royalFavorLabel]</ESCP_AfflictedTrollSite.root.nodes.15.node.nodes.0.nodeIfChosenPawnSignalUsed.label>
+  <ESCP_AfflictedTrollSite.root.nodes.15.node.nodes.0.nodeIfChosenPawnSignalUsed.text>Слѣдующіе​ ваши представители участвовали въ побѣдѣ за ​квестъ​ [resolvedQuestName]. [asker_definite] хочетъ знать, кто изъ нихъ долженъ получить [royalFavorReward_amount] [asker_faction_royalFavorLabel] за эту услугу.</ESCP_AfflictedTrollSite.root.nodes.15.node.nodes.0.nodeIfChosenPawnSignalUsed.text>
+  <ESCP_AfflictedTrollSite.questDescriptionRules.rulesStrings.0>questDescription(askerIsNull==true)-&gt;Мы узнали, что недалеко отъ [map_definite] находится очень опасное [animalKind_label]. Похоже, оно страдаетъ отъ какого-то недуга, заставляющаго его быть гораздо агрессивнѣе другихъ ему подобныхъ.\n\n​Мѣстныя​ жители, скорѣе всего, вознаградятъ насъ за убійство звѣря, хотя другіе, вѣроятно, тоже попытаются это сдѣлать.</ESCP_AfflictedTrollSite.questDescriptionRules.rulesStrings.0>
+  <ESCP_AfflictedTrollSite.questDescriptionRules.rulesStrings.1>questDescription(asker_factionLeader==True)-&gt;[asker_nameDef], [asker_faction_leaderTitle] изъ [asker_faction_name], сообщилъ намъ о мѣстонахожденіи пораженнаго [animalKind_label], недалеко отъ [map_definite]. Похоже, что болѣзнь сдѣлала его очень агрессивнымъ и пугающе опаснымъ.\n\nДругіе, вѣроятно, тоже попытаются убить звѣря, потому вамъ нужно собираться на охоту.</ESCP_AfflictedTrollSite.questDescriptionRules.rulesStrings.1>
+  <ESCP_AfflictedTrollSite.questNameRules.rulesStrings.0>questName-&gt;Багрянорожденный тролль: [animalKind_label]</ESCP_AfflictedTrollSite.questNameRules.rulesStrings.0>
+
+
+</LanguageData>
