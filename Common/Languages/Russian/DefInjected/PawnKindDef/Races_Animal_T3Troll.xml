@@ -28,7 +28,6 @@
   <ESCP_TrollGrahl.labelFemale>Грахля</ESCP_TrollGrahl.labelFemale>
   <ESCP_TrollGrahl.labelFemalePlural>Грахли</ESCP_TrollGrahl.labelFemalePlural>
 
-
   <!-- [ESCP_TrollUdyrfrykte] -->
 
   <ESCP_TrollUdyrfrykte.label>Удырфрухтеръ</ESCP_TrollUdyrfrykte.label>
@@ -55,6 +54,5 @@
   <ESCP_TrollUdyrfrykte.labelMalePlural>Удырфрухтерсы</ESCP_TrollUdyrfrykte.labelMalePlural>
   <ESCP_TrollUdyrfrykte.labelFemale>Удырфрухтя</ESCP_TrollUdyrfrykte.labelFemale>
   <ESCP_TrollUdyrfrykte.labelFemalePlural>Удырфрухти</ESCP_TrollUdyrfrykte.labelFemalePlural>
-
 
 </LanguageData>

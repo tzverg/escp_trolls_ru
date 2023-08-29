@@ -10,7 +10,6 @@
   <ESCP_TrollToxi.tools.2.label>Правое лапищѣ</ESCP_TrollToxi.tools.2.label>
   <ESCP_TrollToxi.tools.4.label>Башка</ESCP_TrollToxi.tools.4.label>
 
-
   <!-- [ESCP_TrollHaemo] -->
 
   <ESCP_TrollHaemo.label>Кровотролль</ESCP_TrollHaemo.label>
@@ -19,6 +18,5 @@
   <ESCP_TrollHaemo.tools.1.label>Лѣвое лапищѣ<</ESCP_TrollHaemo.tools.1.label>
   <ESCP_TrollHaemo.tools.2.label>Правое лапищѣ</ESCP_TrollHaemo.tools.2.label>
   <ESCP_TrollHaemo.tools.4.label>Башка</ESCP_TrollHaemo.tools.4.label>
-
 
 </LanguageData>
